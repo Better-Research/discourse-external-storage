@@ -7,7 +7,7 @@
 # required_version: 2.7.0
 
 
-enabled_site_setting :external_storage_enabled   
+enabled_site_setting :external_storage_enabled
 
 after_initialize do
   load File.expand_path('../config/routes.rb', __FILE__)
