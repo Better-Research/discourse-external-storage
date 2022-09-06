@@ -1,1 +1,5 @@
 en:
+  site_settings:
+    external_storage_enabled: 'Enable Token Store'
+    bearer_token: "Bearer Token"
+    request_url: "URL for the external API request"

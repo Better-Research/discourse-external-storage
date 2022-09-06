@@ -1,4 +1,7 @@
 plugins:
-  plugin_name_enabled:
-    default: true
-    client: true
+  external_storage_enabled:
+    default: false
+  bearer_token:
+    default: ""
+  request_url:
+    default: ""
